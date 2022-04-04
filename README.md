@@ -1,4 +1,4 @@
-# -Introduction-to-Embedded-Systems-Software-and-Development-Environments
+# Introduction-to-Embedded-Systems-Software-and-Development-Environments
 
 
 Assignments for the Coursera's "Introduction to embedded systems software and development environments" course by University of Colorado Boulder. The course is instructed by Eng. Alex Fosdick
